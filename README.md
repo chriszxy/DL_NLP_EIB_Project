@@ -13,4 +13,4 @@ numpy ('1.19.5')<br>
 pandas ('1.2.2')<br>
 re ('2.2.1')<br>
 seaborn ('0.11.2')<br>
-transformers (). 
+transformers ('4.15.0'). 
