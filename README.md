@@ -11,4 +11,5 @@ numpy ('1.19.5')<br>
 pandas ('1.2.2')<br>
 re ('2.2.1')<br>
 seaborn ('0.11.2')<br>
+sklearn ('0.23.1') ## We used this package to visualize the keywords and compute cosine similarity scores.<br>
 transformers ('4.15.0') ## We used the BERT-related models from this package to tokenize and embed texts into word vectors. 
